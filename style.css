@@ -5,3 +5,14 @@
     align-items: center;
     justify-content: center;
 }
+
+
+.portfoglio{
+    background-color: white;
+    height: 400px;
+}
+
+.about{
+    background-color: aqua;
+    height: 200px;
+}
