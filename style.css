@@ -6,13 +6,22 @@
     justify-content: center;
 }
 
+.img-portfoglio{
+    width: 100%;
+    padding-top: 10px;
+}
+
 
 .portfoglio{
     background-color: white;
-    height: 400px;
 }
 
 .about{
     background-color: aqua;
     height: 200px;
+}
+
+.footer{
+    height: 500px;
+    background-color: black;
 }
