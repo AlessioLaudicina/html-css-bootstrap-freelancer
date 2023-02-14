@@ -40,11 +40,25 @@ main{
 
 
 .footer-top{
-    background-color: rgb(57	,84, 	109	);
+    background-color: rgb(72, 107, 141);
     
 }
 
 .footer-bottom{
     background-color: #3a546c;
     
+}
+
+.ms-btn-color{
+    background-color: #23BC9C;
+
+
+}
+
+.icons{
+    font-size: 30px;
+}
+
+.icons i{
+    padding-left: 10px;
 }
