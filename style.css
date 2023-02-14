@@ -6,6 +6,10 @@ header{
     height: 70px;
 }
 
+.ms-bg-header{
+    background-color: #3a546c;
+}
+
 main{
     padding-top: 70px;
 }
@@ -36,7 +40,7 @@ main{
 
 
 .footer-top{
-    background-color: #3a546c;
+    background-color: rgb(57	,84, 	109	);
     
 }
 
