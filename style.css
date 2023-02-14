@@ -24,6 +24,7 @@ main{
 .img-portfoglio{
     width: 100%;
     padding-top: 10px;
+    border-radius: 30px;
 }
 
 
@@ -55,8 +56,14 @@ main{
 
 }
 
+.ms-btn-color:hover{
+    background-color: #1a8c73;
+
+
+}
+
 .icons{
-    font-size: 30px;
+    font-size: 25px;
 }
 
 .icons i{
