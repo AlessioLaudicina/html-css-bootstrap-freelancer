@@ -151,3 +151,8 @@ main{
         text-align: center;
         margin: 0 5px;
 }
+
+.icons i:hover{
+    color: #23BC9C;
+    border-color: #23BC9C;
+}
