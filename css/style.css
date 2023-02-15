@@ -1,0 +1,73 @@
+.ms-bg-green{
+    background-color: #23BC9C;
+}
+
+header{
+    height: 70px;
+}
+
+.ms-bg-header{
+    background-color: #3a546c;
+}
+
+main{
+    padding-top: 70px;
+}
+
+.ms-avatar-img{
+    max-width: 150px;
+}
+
+
+
+
+.img-portfoglio{
+    width: 100%;
+    padding-top: 10px;
+    border-radius: 30px;
+}
+
+
+.portfoglio{
+    background-color: white;
+}
+
+.contact{
+    padding: 30px 0;
+}
+
+
+
+
+
+.footer-top{
+    background-color: rgb(72, 107, 141);
+    
+}
+
+.footer-bottom{
+    background-color: #3a546c;
+    
+}
+
+.ms-btn-color{
+    background-color: #23BC9C;
+
+
+}
+
+.ms-btn-color:hover{
+    background-color: #1a8c73;
+
+
+}
+
+.icons{
+    font-size: 25px;
+}
+
+.icons i{
+        border: 1px solid white;
+        padding: 10px;
+        border-radius: 100%;
+}
